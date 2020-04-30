@@ -10,14 +10,12 @@ browser.get(URL)
 sleep(20) #atur sesuai waktu yang diperluin buat login diawal
 browser.get("https://igracias.telkomuniversity.ac.id/geladi?pageid=20391")
    
-count = 0
+
 now = datetime.now()
 while True:
-    
-    if now.hour == 9 and now.minute == 00:
+    if now.hour == 9 and now.minute == 5:
+        print("stopped")
         break
-    print(count)
     sleep(5)
-    count+=1
     browser.refresh()
   
