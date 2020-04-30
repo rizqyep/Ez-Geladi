@@ -17,3 +17,9 @@ Kalau udah semua : buka directory Ez-Geladi , run command  di cmd.terminal : <br
 -python geladi.py
 
 
+<h4>Note : </h4>
+Kalau script gabisa dijalankan, cek versi browser chrome di Settings-> About Chrome <br>
+Download chromedriver yang sesuai,copy ke directory Ez-geladi <br>
+Link Download chrome driver : https://chromedriver.chromium.org/downloads
+
+
