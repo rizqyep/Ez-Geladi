@@ -16,6 +16,8 @@
 Kalau udah semua : buka directory Ez-Geladi , run command  di cmd.terminal : <br>
 -python geladi.py
 
+Program akan auto refresh setelah waktu yang ditentukan, jadi pastiin sempat login dulu sebelum refresh.
+
 
 <h4>Note : </h4>
 Kalau script gabisa dijalankan, cek versi browser chrome di Settings-> About Chrome <br>
