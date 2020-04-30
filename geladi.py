@@ -11,6 +11,7 @@ sleep(20) #atur sesuai waktu yang diperluin buat login diawal
 browser.get("https://igracias.telkomuniversity.ac.id/geladi?pageid=20391")
    
 count = 0
+now = datetime.now()
 while True:
     
     if now.hour == 9 and now.minute == 00:
