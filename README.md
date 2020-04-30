@@ -11,8 +11,9 @@
 </ul>
 
 <h4> Kalau python 3 udah di install,buka cmd/terminal,run command : </h4>
-- pip install selenium
+- pip install selenium<br>
 
-Kalau udah semua : buka directory Ez-Geladi , run command python geladi.py
+Kalau udah semua : buka directory Ez-Geladi , run command  di cmd.terminal : <br>
+-python geladi.py
 
 
