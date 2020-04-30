@@ -6,8 +6,9 @@ PATH_TO_DRIVER = 'chromedriver_win32/chromedriver.exe'
 browser = webdriver.Chrome(PATH_TO_DRIVER)
 
 browser.get(URL)
-sleep(5)
+sleep(20) #atur sesuai waktu yang diperluin buat login diawal
+browser.get("https://igracias.telkomuniversity.ac.id/geladi/index.php")
+   
 while True:
-    browser.get("https://igracias.telkomuniversity.ac.id/geladi")
-    sleep(10) #atur sesuai waktu yang diperluin buat login diawal
+    sleep(10)
     browser.refresh()
